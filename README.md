@@ -16,7 +16,7 @@ Some parts of the codebase are old and kept intentionally as a record of my lear
 ## Contents
 
 - Go language basics and backend experiments
-- Small demo projects (e.g. CRUD, simple services)
+- Small demo projects (e.g. TCP, simple services)
 - Notes and learning records
 - Legacy code from earlier learning stages
 
@@ -40,3 +40,4 @@ Some code may be incomplete or outdated, but it is preserved for reference.
 
 Learning is iterative.  
 This repository exists to make that process visible.
+
