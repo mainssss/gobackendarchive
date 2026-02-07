@@ -1,0 +1,14 @@
+package main
+
+import (
+	"fmt"
+	"net/http"
+)
+
+func sayHello(a http)  {
+	
+}
+
+func main() {
+	htttp.HandleFunc("/hello",sayHello)
+}
