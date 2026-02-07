@@ -1,0 +1,11 @@
+# Old GOPATH dependencies (do NOT commit)
+raw_archive/goproject/src/github.com/
+raw_archive/goproject/src/gorm.io/
+
+# Go build
+bin/
+pkg/
+
+# IDE
+.idea/
+.vscode/
